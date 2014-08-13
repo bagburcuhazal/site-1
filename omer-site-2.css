@@ -1,0 +1,861 @@
+#container {
+	width: 1000px;
+	margin-left:186px;
+	margin-right :auto;
+	background-color: white;
+	border-width:5px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius: 10px;
+	padding: 1px 1px 1px 1px;
+	float: left;
+}
+
+
+
+
+
+#a1 {
+clear: both;
+width: 1000px;
+height: 32px;
+background-color: black;
+float: left;
+margin-left: 3px;
+color: white;
+padding-left: 10px;
+font-size: 10px;
+
+}
+
+.a10 {
+	float: left;
+	margin-left: 112px;
+	margin-top: 2px;
+	
+}
+
+#a1 .a10 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+color: white;
+text-decoration: none;
+
+
+}
+
+#a1 .a10 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: black;
+
+}
+
+
+.a11 {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+
+#a1 .a11 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+text-decoration: none;
+
+
+}
+
+#a1 .a11 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: black;
+
+}
+
+.a12 {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+
+#a1 .a12 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+text-decoration: none;
+
+}
+
+#a1 .a12 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: black;
+
+}
+
+.a13 {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+
+#a1 .a13 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+text-decoration: none;
+
+}
+
+#a1 .a13 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: black;
+
+}
+
+.a14 {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+
+#a1 .a14 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+text-decoration: none;
+
+}
+
+#a1 .a14 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: black;
+
+}
+
+.a15 {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+
+#a1 .a15 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+text-decoration: none;
+
+}
+
+#a1 .a15 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: black;
+background-color: black;
+
+}
+
+.a16 {
+	float: left;
+	margin-left: 297px;
+	margin-top: 10px;
+
+}
+
+#a1 .a16 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: grey;
+text-decoration: none;
+
+}
+
+#a1 .a16 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: black;
+background-color: black;
+
+}
+
+#a2 {
+	width: 1000px;
+	height: 94px;
+	background-color: #2A2A2A;
+	margin-left: 3px;
+	padding-left: 110px;
+	padding-top: 39px;
+}
+
+#a2 .a20{
+	font-family: comic;
+	margin-left: 56px;
+	margin-top: -42px;
+	font-size: 23px;
+	color: white;
+
+}
+
+#a2 .a21{
+	font-family: comic;
+	margin-left: 278px;
+	margin-top: -33px;
+	font-size: 18px;
+	color: white;
+
+}
+
+
+#a2 .a21 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color:white;
+
+
+}
+
+#a2 .a21 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: black;
+background-color: black;
+
+}
+
+#a2 .a211{
+	font-family: comic;
+	margin-left: 264px;
+	margin-top: -5px;
+	color: white;
+	font-size: 11px;
+
+}
+
+#a2 .a22{
+	font-family: comic;
+	margin-left: 426px;
+	margin-top: -35px;
+	font-size: 18px;
+	color: white;
+	
+}
+
+#a2 .a22 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+
+
+}
+
+#a2 .a22 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: black;
+background-color: black;
+
+}
+
+
+#a2 .a212{
+	font-family: comic;
+	margin-left:419px;
+	margin-top: -4px;
+	color: white;
+	font-size: 11px;
+}
+
+#a2 .a23{
+	font-family: comic;
+	margin-left: 563px;
+	margin-top: -35px;
+	font-size: 18px;
+	color: white;
+	
+}
+
+#a2 .a23 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+
+}
+
+#a2 .a23 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: black;
+background-color: black;
+}
+
+
+#a2 .a213{
+	font-family: comic;
+	margin-left:555px;
+	margin-top: -4px;
+	color: white;
+	font-size: 11px;
+}
+
+#a2 .a24{
+	font-family: comic;
+	margin-left: 712px;
+	margin-top: -35px;
+	font-size: 18px;
+	
+
+}
+
+#a2 .a24 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+border-bottom-left-radius: 10px; /* linkin üzerine geldikten sonra da kenarlardaki karelik gider.*/
+border-bottom-right-radius: 10px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+color: white;
+
+}
+
+#a2 .a24 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: black;
+background-color: black;
+
+}
+
+
+#a2 .a214{
+	font-family: comic;
+	margin-left:695px;
+	margin-top: -4px;
+	color: white;
+	font-size: 11px;
+}
+
+#a3 {
+	width: 1000px;
+	height: 262px;
+	background-color: #6666FF;
+	margin-left: 3px;
+
+
+}
+
+#a3 .slide{
+	padding-top: 21px;
+	position: center;
+
+}
+
+#a4 {
+	width: 1000px;
+	height: 199px;
+	margin-left: 3px;
+	padding-top: 15px;
+	
+}
+
+#a4 .yuvarlak{
+	width: 85px;
+	height: 85px;
+	border:solid;
+	border-radius: 115px;
+	margin-left: 257px;
+	margin-top: 4px;
+	border-color: #F6F6F6;
+}
+
+#a4 .yuvarlak2{
+	width: 85px;
+	height: 85px;
+	border:solid;
+	border-radius: 115px;
+	margin-left: 391px;
+	margin-top: -84px;
+	border-color: #F6F6F6;
+}
+
+#a4 .yuvarlak3{
+	width: 85px;
+	height: 85px;
+	border:solid;
+	border-radius: 115px;
+	margin-left: 525px;
+	margin-top: -84px;
+	border-color: #F6F6F6;
+}
+
+#a4 .yuvarlak4{
+	width: 85px;
+	height: 85px;
+	border:solid;
+	border-radius: 115px;
+	margin-left: 661px;
+	margin-top: -84px;
+	border-color: #F6F6F6;
+}
+
+
+#a4 .foto{
+	margin-left: 263px;
+	margin-top: -84px;
+}
+
+#a4 .foto2{
+	margin-left: 400px;
+	margin-top: -79px;
+}
+
+#a4 .foto3{
+	margin-left: 536px;
+	margin-top: -75px;
+}
+
+#a4 .foto4{
+	margin-left: 671px;
+	margin-top: -84px;
+}
+
+#a4 .y1{
+	font-size: 13px;
+	margin-left: 248px;
+	margin-top: 5px;
+}
+
+#a4 .y11{
+	width: 137px;
+	font-size: 10px;
+	margin-left: 233px;
+	margin-top: 5px;
+}
+
+#a4 .y2{
+	font-size: 13px;
+	margin-left: 367px;
+	margin-top: -35px;
+}
+
+#a4 .y22{
+	width: 137px;
+	font-size: 10px;
+	margin-left: 368px;
+	margin-top: 3px;
+}
+
+#a4 .y3{
+	font-size: 13px;
+	margin-left: 525px;
+	margin-top: -34px;
+}
+
+#a4 .y33{
+	width: 137px;
+	font-size: 10px;
+	margin-left: 506px;
+	margin-top: 2px;
+}
+
+#a4 .y4{
+	font-size: 13px;
+	margin-left: 668px;
+	margin-top: -33px;
+}
+
+#a4 .y44{
+	width: 137px;
+	font-size: 10px;
+	margin-left: 642px;
+	margin-top: 1px;
+}
+
+#a4 .b1{
+	margin-top: 24px;
+	margin-left: 279px;
+}
+
+#a4 .b1 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+color: white;
+text-decoration: none;
+background-color: green;
+padding: 5px;
+
+}
+
+#a4 .b1 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: green;
+
+}
+
+
+#a4 .b2{
+	margin-top: -20px;
+	margin-left: 413px;
+}
+
+#a4 .b2 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+color: white;
+text-decoration: none;
+background-color: green;
+padding: 5px;
+
+}
+
+#a4 .b2 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: green;
+
+}
+
+
+#a4 .b3{
+	margin-top: -20px;
+	margin-left: 546px;
+}
+
+#a4 .b3 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+color: white;
+text-decoration: none;
+background-color: green;
+padding: 5px;
+
+}
+
+#a4 .b3 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: green;
+
+}
+
+
+#a4 .b4{
+	margin-top: -20px;
+	margin-left: 682px;
+}
+
+#a4 .b4 a{
+-webkit-transform:scale(0.8); /*Webkit: Scale down image to 0.8x original size*/
+-moz-transform:scale(0.8); /*Mozilla scale version*/
+-o-transform:scale(0.8); /*Opera scale version*/
+-webkit-transition-duration: 0.5s; /*Webkit: Animation duration*/
+-moz-transition-duration: 0.5s; /*Mozilla duration version*/
+-o-transition-duration: 0.5s; /*Opera duration version*/
+opacity: 0.7; /*initial opacity of images*/
+margin: 0 10px 5px 0; /*margin between images*/
+color: white;
+text-decoration: none;
+background-color: green;
+padding: 5px;
+
+}
+
+#a4 .b4 a:hover{
+-webkit-transform:scale(1.1); /*Webkit: Scale up image to 1.2x original size*/
+-moz-transform:scale(1.1); /*Mozilla scale version*/
+-o-transform:scale(1.1); /*Opera scale version*/
+box-shadow:0px 0px 30px gray; /*CSS3 shadow: 30px blurred shadow all around image*/
+-webkit-box-shadow:0px 0px 30px gray; /*Safari shadow version*/
+-moz-box-shadow:0px 0px 30px gray; /*Mozilla shadow version*/
+opacity: 1;
+border-color: green;
+background-color: green;
+
+}
+
+
+#a5 {
+	width: 1000px;
+	height: 72px;
+	background-color: #6666FF;
+	margin-top: 15px;
+	padding-top: 17px;
+
+}
+
+#a5 .a51{
+	width: 39px;
+	height: 39px;
+	border-radius: 115px;
+	background-color: white;
+	margin-left: 213px;
+}
+
+#a5 .a52{
+	width: 39px;
+	height: 39px;
+	border-radius: 115px;
+	background-color: white;
+	margin-left: 483px;
+	margin-top: -39px;
+}
+#a5 .a53{
+	width: 39px;
+	height: 39px;
+	border-radius: 115px;
+	background-color: white;
+	margin-left: 755px;
+	margin-top: -39px;
+}
+
+#a5 .a511{
+	color: green;
+	font-size: 33px;
+	margin-top: -42px;
+	margin-left: 221px;
+}
+
+#a5 .a522{
+	color: green;
+	font-size: 33px;
+	margin-top: -47px;
+	margin-left: 491px;
+}
+
+#a5 .a533{
+	color: green;
+	font-size: 33px;
+	margin-top: -48px;
+	margin-left: 763px;
+}
+
+#a5 .yaz1{
+	color: white;
+	font-size: 16px;
+	margin-top: -35px;
+	margin-left: 258px;
+}
+
+
+#a5 .yaz2{
+	color: white;
+	font-size: 16px;
+	margin-top: -22px;
+	margin-left: 532px;
+}
+
+
+#a5 .yaz3{
+	color: white;
+	font-size: 16px;
+	margin-top: -22px;
+	margin-left: 800px;
+}
+
+
